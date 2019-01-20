@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.1 r15371"
+   width="58"
+   height="18.000351"
+   sodipodi:docname="listitem.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
+   inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/wether.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   version="1.0">
+  <sodipodi:namedview
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.5"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#a060a0"
+     id="base"
+     inkscape:zoom="8"
+     inkscape:cx="28.599954"
+     inkscape:cy="23.739725"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg2"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-guide="false"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5592"
+       visible="true"
+       enabled="true"
+       empspacing="5"
+       snapvisiblegridlinesonly="true"
+       originx="15"
+       originy="-296.99965"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5" />
+  <path
+     inkscape:connector-curvature="0"
+     id="normal-center"
+     d="M 0,0 V 18 H 18 V 0 Z"
+     style="opacity:0;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <path
+     style="opacity:1;fill:#909090;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 40,9.5062251e-7 V 18.000351 H 57.999999 V 9.5062251e-7 Z"
+     id="section-center"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="pressed-center"
+     d="M 20,9.5214841e-7 V 18.000001 H 38 V 9.5214841e-7 Z"
+     style="opacity:1;fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="section-hint-top-margin"
+     width="2"
+     height="6"
+     x="48"
+     y="9.5062251e-07" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="pressed-hint-top-margin"
+     width="2"
+     height="6"
+     x="28"
+     y="9.5214841e-07" />
+  <rect
+     y="12.000001"
+     x="28"
+     height="6"
+     width="2"
+     id="pressed-hint-bottom-margin"
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     y="8.000001"
+     x="20"
+     height="2"
+     width="4"
+     id="pressed-hint-left-margin"
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="pressed-hint-right-margin"
+     width="4"
+     height="2"
+     x="34"
+     y="8.000001" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="normal-hint-left-margin"
+     width="4"
+     height="1.9999999"
+     x="0"
+     y="8" />
+  <rect
+     y="0"
+     x="8"
+     height="6"
+     width="2"
+     id="normal-hint-top-margin"
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="normal-hint-bottom-margin"
+     width="2"
+     height="6"
+     x="8"
+     y="12" />
+  <rect
+     y="8"
+     x="14"
+     height="2"
+     width="4"
+     id="normal-hint-right-margin"
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     y="8.000001"
+     x="40"
+     height="1.9999999"
+     width="4"
+     id="section-hint-left-margin"
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="section-hint-right-margin"
+     width="4"
+     height="2"
+     x="54"
+     y="8.000001" />
+  <rect
+     y="12.000001"
+     x="48"
+     height="6"
+     width="2"
+     id="section-hint-bottom-margin"
+     style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+</svg>

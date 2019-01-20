@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=QTStep Breeze Dark
+Description=A Greeter inspired by OpenStep
+Author=Andi Berger
+License=GPLv3
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.png
+MainScript=main.qml
+ConfigFile=theme.conf
+Email=andi.berger@yandex.com
+Theme-Id=QTStepBreezeDark
+Theme-API=2.0

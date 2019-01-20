@@ -1,0 +1,10 @@
+#panel {
+	background: palette(window);
+	border: 1px solid #2a2d26;
+}
+
+
+#commandList {
+	border: 1px solid #2a2d26;
+	border-top: 0px;
+}

@@ -1,0 +1,16 @@
+How to create a new variation of this theme:
+
+1) use make_color_scheme.sh to create a colors.* file from a KDE color scheme
+   that will contain border/highlight/etc shades, for example:
+
+       ./make_color_scheme.sh ~/.local/share/color-schemes/MyColorScheme.colors
+
+2) [optional] edit the resulting colors.* file to manually change some of the
+   shades. if you only want to specify a few of the colors (for example the 
+   titlebar gradient) while leaving the rest up to the script (in this example
+   maybe the titlebar gradient's highlight and innerdark borders), use
+   override.colors.*, put in only the colors you want to specify, then run 1)
+   again.
+
+3) run
+       ./make_theme.sh MyColorScheme.colors
