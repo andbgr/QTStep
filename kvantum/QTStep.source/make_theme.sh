@@ -12,7 +12,7 @@ cd       ../$name
 mv -v QTStep.source.kvconfig "$name".kvconfig
 mv -v QTStep.source.svg      "$name".svg
 
-for image in *.svg *.kvconfig; do
+for file in *.svg *.kvconfig; do
 	declare -A colors_source
 	while read key val; do
 		colors_source[$key]=$val
@@ -24,10 +24,10 @@ for image in *.svg *.kvconfig; do
 	done < "colors.$colorscheme"
 
 	for i in ${!colors_source[@]}; do
-		sed -i "s/${colors_source[$i]}/PLACEHOLDER-$i-PLACEHOLDER/g" $image
+		sed -i "s/${colors_source[$i]}/PLACEHOLDER-$i-PLACEHOLDER/g" $file
 	done
 	for i in ${!colors_source[@]}; do
-		sed -i "s/PLACEHOLDER-$i-PLACEHOLDER/${colors_theme[$i]}/g" $image
+		sed -i "s/PLACEHOLDER-$i-PLACEHOLDER/${colors_theme[$i]}/g" $file
 	done
 done
 

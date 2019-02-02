@@ -14,7 +14,7 @@ for i in *.gradient.svg; do
 	mv -v $i $(echo $i | sed 's/\.gradient\.svg/.svg/')
 done
 
-for image in *.svg *.qss; do
+for file in *.svg *.qss; do
 	declare -A colors_source
 	while read key val; do
 		colors_source[$key]=$val
@@ -26,10 +26,10 @@ for image in *.svg *.qss; do
 	done < "colors.$colorscheme"
 
 	for i in ${!colors_source[@]}; do
-		sed -i "s/${colors_source[$i]}/PLACEHOLDER-$i-PLACEHOLDER/g" $image
+		sed -i "s/${colors_source[$i]}/PLACEHOLDER-$i-PLACEHOLDER/g" $file
 	done
 	for i in ${!colors_source[@]}; do
-		sed -i "s/PLACEHOLDER-$i-PLACEHOLDER/${colors_theme[$i]}/g" $image
+		sed -i "s/PLACEHOLDER-$i-PLACEHOLDER/${colors_theme[$i]}/g" $file
 	done
 done
 
