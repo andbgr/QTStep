@@ -30,8 +30,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1867"
-     inkscape:window-height="1054"
+     inkscape:window-width="1866"
+     inkscape:window-height="1055"
      id="namedview1408"
      showgrid="true"
      inkscape:window-x="0"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -389,7 +389,7 @@
   <path
      style="fill:#ff8000;fill-opacity:0.50196078;fill-rule:evenodd;stroke-width:0.3651484"
      id="tab-tear"
-     d="m 345,185 h 2 v 15 h -2 z"
+     d="m 350,185 h 2 v 15 h -2 z"
      inkscape:connector-curvature="0" />
   <g
      style="opacity:0"
@@ -8361,4 +8361,14 @@
        id="rect2303-02-6-9"
        style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
   </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#tab-close-normal"
+     id="tab-close-disabled"
+     transform="translate(11.000004,4.52e-6)"
+     width="100%"
+     height="100%"
+     style="opacity:0.5"
+     inkscape:label="#use5859" />
 </svg>

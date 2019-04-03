@@ -1,5 +1,5 @@
 #!/bin/bash
-# Usage: make_tiles.sh colors.NAME
+# Usage: make_theme.sh colors.NAME
 
 
 colorscheme="$(echo "$1" | sed 's/colors.//')"
@@ -12,17 +12,17 @@ cd       ../$name
 
 rm -v *.gradient.svg
 
-for file in *.svg *.qss; do
-	declare -A colors_source
-	while read key val; do
-		colors_source[$key]=$val
-	done < colors
-	
-	declare -A colors_theme
-	while read key val; do
-		colors_theme[$key]=$val
-	done < "colors.$colorscheme"
+declare -A colors_source
+while read key val; do
+	colors_source[$key]=$val
+done < colors
 
+declare -A colors_theme
+while read key val; do
+	colors_theme[$key]=$val
+done < "colors.$colorscheme"
+
+for file in *.svg *.qss; do
 	for i in ${!colors_source[@]}; do
 		sed -i "s/${colors_source[$i]}/PLACEHOLDER-$i-PLACEHOLDER/g" $file
 	done
