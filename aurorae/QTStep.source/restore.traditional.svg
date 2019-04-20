@@ -30,7 +30,7 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1867"
+     inkscape:window-width="1866"
      inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -42,14 +42,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid2985"
-       empspacing="4"
+       empspacing="2"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="5"
        originy="-24"
-       spacingx="0.25"
-       spacingy="0.25" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <defs
      id="defs4" />
@@ -134,7 +134,7 @@
       <path
          sodipodi:nodetypes="cccccccccc"
          id="path3131"
-         d="M 34,-22.875 23.125,-12 34,-1.125 44.875,-12 Z m 0,3.75 L 41.125,-12 34,-4.875 26.875,-12 Z"
+         d="M 34,-22.5 23.5,-12 34,-1.5 44.5,-12 Z m 0,3 7.5,7.5 -7.5,7.5 -7.5,-7.5 z"
          style="fill:#111111;fill-opacity:1;stroke:none;stroke-width:1.5"
          inkscape:connector-curvature="0" />
     </g>

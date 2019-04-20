@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="74"
@@ -29,8 +30,8 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1867"
-     inkscape:window-height="1054"
+     inkscape:window-width="1866"
+     inkscape:window-height="1055"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,14 +42,14 @@
     <inkscape:grid
        type="xygrid"
        id="grid2985"
-       empspacing="4"
+       empspacing="2"
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
        originx="5"
        originy="89"
-       spacingx="0.25"
-       spacingy="0.25" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <defs
      id="defs4" />
@@ -117,13 +118,14 @@
          width="23"
          id="active-center_-7"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#009000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-      <rect
-         y="53"
-         x="18"
-         height="3"
-         width="3"
-         id="rect3255-6"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0ffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3255"
+         id="use10795"
+         width="100%"
+         height="100%"
+         transform="translate(0,35)" />
     </g>
     <g
        id="hover-inactive-center"
@@ -136,13 +138,14 @@
          width="23"
          id="inactive-center_-9"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#900000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-      <rect
-         y="53"
-         x="53"
-         height="3"
-         width="3"
-         id="rect3255-7"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffe0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3255-3"
+         id="use10833"
+         width="100%"
+         height="100%"
+         transform="translate(0,35)" />
     </g>
     <g
        id="pressed-center"
@@ -155,13 +158,14 @@
          width="23"
          id="pressed-center_"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#006000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-      <rect
-         y="89"
-         x="19"
-         height="3"
-         width="3"
-         id="rect3255-5"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0ffe0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3255"
+         id="use10795-3"
+         width="100%"
+         height="100%"
+         transform="translate(1,71)" />
     </g>
     <g
        id="pressed-inactive-center"
@@ -174,13 +178,14 @@
          width="23"
          id="pressed-inactive-center_"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#600000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-      <rect
-         y="89"
-         x="54"
-         height="3"
-         width="3"
-         id="rect3255-35"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffe0e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3255-3"
+         id="use10833-7"
+         width="100%"
+         height="100%"
+         transform="translate(1,71)" />
     </g>
     <g
        id="deactivated-center"
@@ -193,13 +198,15 @@
          width="23"
          id="active-center_-1"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-      <rect
-         y="123"
-         x="18"
-         height="3"
-         width="3"
-         id="rect3255-62"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e0ffe0;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3255"
+         id="use10795-6"
+         width="100%"
+         height="100%"
+         transform="translate(0,105)"
+         style="opacity:0.5" />
     </g>
     <g
        id="deactivated-inactive-center"
@@ -212,13 +219,15 @@
          width="23"
          id="inactive-center_-3"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff00ff;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-      <rect
-         y="123"
-         x="53"
-         height="3"
-         width="3"
-         id="rect3255-9"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffe0e0;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect3255-3"
+         id="use10833-5"
+         width="100%"
+         height="100%"
+         transform="translate(0,105)"
+         style="opacity:0.5" />
     </g>
     <g
        id="active-top">
