@@ -3,17 +3,17 @@
 
 
 colorscheme="$(echo "$1" | sed 's/colors.//')"
-displayname="QTStep Gradient $colorscheme"
+displayname="QTStep Plain $colorscheme"
 name="$(echo "$displayname" | tr -d ' ')"
 		
 rm -rv   ../$name
 cp -av . ../$name
 cd       ../$name
 
-for i in *.gradient.svg; do
-	mv -v $i $(echo $i | sed 's/\.gradient\.svg/.svg/')
+for i in *.plain.*; do
+	mv -v $i $(echo $i | sed 's/\.plain\././')
 done
-rm -v *.plain.*
+rm -v *.gradient.svg
 
 declare -A colors_source
 while read key val; do

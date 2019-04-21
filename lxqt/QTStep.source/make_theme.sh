@@ -10,7 +10,7 @@ rm -rv   ../$name
 cp -av . ../$name
 cd       ../$name
 
-rm -v *.gradient.svg
+rm -v *.gradient.svg *.plain.*
 
 declare -A colors_source
 while read key val; do
