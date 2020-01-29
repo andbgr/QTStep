@@ -22,6 +22,7 @@ for size in 19 23 27 31 35; do
 	mv -v QTStep.sourcerc.traditional "$name"rc
 	
 	mv -v decoration.gradient.svg decoration.svg
+	mv -v preview.traditional.gradient.svg preview.traditional.svg
 	rm -v *.gradient.svg QTStep.sourcerc
 	for i in *.traditional.svg; do
 		mv -v $i $(echo $i | sed 's/\.traditional\.svg/.svg/')
