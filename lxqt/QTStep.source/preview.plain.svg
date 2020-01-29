@@ -13,9 +13,9 @@
    width="32"
    id="svg3124"
    sodipodi:version="0.32"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.0"
-   sodipodi:docname="preview.svg"
+   sodipodi:docname="preview.plain.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      id="base"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.5"
      inkscape:pageshadow="2"
-     inkscape:cx="178"
-     inkscape:cy="28.000002"
-     inkscape:zoom="4.8567416"
+     inkscape:cx="9.4440737"
+     inkscape:cy="17.106325"
+     inkscape:zoom="19.426966"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,7 +99,7 @@
      transform="translate(36.5,176.13782)">
     <g
        id="normal-topleft"
-       transform="translate(315,110)">
+       transform="matrix(0.5,0,0,0.49999678,139.25,-33.069829)">
       <rect
          style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5812"
@@ -117,7 +117,7 @@
     </g>
     <g
        id="normal-top"
-       transform="matrix(0.58333333,0,0,1,168.79167,110)">
+       transform="matrix(0.60416676,0,0,0.49999678,175.05211,-33.069829)">
       <rect
          style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5814"
@@ -135,7 +135,7 @@
     </g>
     <g
        id="normal-left"
-       transform="matrix(1,0,0,0.58333333,315,-8.9740941)">
+       transform="matrix(0.5,0,0,0.60416672,139.25,-4.0753758)">
       <rect
          style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5818"
@@ -155,12 +155,12 @@
        id="normal-center"
        transform="matrix(0.58333333,0,0,0.58333333,168.79167,-8.9740941)">
       <rect
-         style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+         style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.81112599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5820"
-         width="48"
-         height="48"
-         x="-348.5"
-         y="-283.13782" />
+         width="49.714294"
+         height="49.714291"
+         x="-350.21429"
+         y="-284.85211" />
     </g>
     <g
        id="normal-topright"

@@ -13,4 +13,4 @@ How to create a new variation of this theme:
    again.
 
 3) run
-       ./make_theme.sh MyColorScheme.colors
+       ./make_theme.sh colors.MyColorScheme

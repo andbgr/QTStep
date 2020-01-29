@@ -146,47 +146,14 @@ LXQtGroupPopup {
 
 #DesktopSwitch {
 	margin: 0px;
-	padding-top: -2px;
-	padding-right: -2px;
-	padding-bottom: -2px;
-	padding-left: -2px;
+	padding: 1px;
 	border: 2px;
 	border-image: url(tile-normal.svg) 2 2 2 2 stretch stretch;
 }
 
-
 #DesktopSwitch > QToolButton {
-	color: #e0ffe0;
-	border-top: 1px;
-	border-right: 2px;
-	border-bottom: 2px;
-	border-left: 1px;
-	border-image: url(desktopswitch-button-normal.svg) 1 2 2 1 stretch stretch;
-	padding-right: -1px;
-	padding-bottom: -1px;
+	padding: -2px;
 }
-
-#DesktopSwitch > QToolButton:hover {
-	border-top: 1px;
-	border-right: 2px;
-	border-bottom: 2px;
-	border-left: 1px;
-	border-image: url(desktopswitch-button-hover.svg) 1 2 2 1 stretch stretch;
-	padding-right: -1px;
-	padding-bottom: -1px;
-}
-
-#DesktopSwitch > QToolButton:on {
-	border-top: 1px;
-	border-right: 2px;
-	border-bottom: 2px;
-	border-left: 1px;
-	border-image: url(desktopswitch-button-pressed.svg) 1 2 2 1 stretch stretch;
-	padding-right: -1px;
-	padding-bottom: -1px;
-}
-
-
 
 
 #QuickLaunchPlaceHolder {

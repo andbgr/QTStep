@@ -13,9 +13,9 @@
    width="52"
    id="svg3124"
    sodipodi:version="0.32"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.0"
-   sodipodi:docname="tasks-normal.svg"
+   sodipodi:docname="tile-normal.plain.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      id="base"
@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.5"
      inkscape:pageshadow="2"
-     inkscape:cx="178"
-     inkscape:cy="28.000002"
-     inkscape:zoom="4.8567416"
+     inkscape:cx="7.5409477"
+     inkscape:cy="24.773411"
+     inkscape:zoom="13.73694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      gridtolerance="10000"
      inkscape:grid-points="true"
-     inkscape:window-width="1814"
+     inkscape:window-width="1867"
      inkscape:window-height="1054"
-     inkscape:window-x="53"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +90,7 @@
      transform="translate(36.5,176.13782)">
     <g
        id="normal-topleft"
-       transform="translate(315,110)">
+       transform="matrix(0.5,0,0,0.49999869,139.25,-33.069283)">
       <rect
          style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5812"
@@ -108,7 +108,7 @@
     </g>
     <g
        id="normal-top"
-       transform="translate(314,110)">
+       transform="matrix(1.0208333,0,0,0.49999869,320.26042,-33.069283)">
       <rect
          style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5814"
@@ -126,7 +126,7 @@
     </g>
     <g
        id="normal-left"
-       transform="translate(315,109)">
+       transform="matrix(0.5,0,0,1.0208334,139.25,113.89872)">
       <rect
          style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5818"
@@ -144,7 +144,7 @@
     </g>
     <g
        id="normal-center"
-       transform="translate(314,109)">
+       transform="matrix(1.0208333,0,0,1.0208334,320.26042,113.89872)">
       <rect
          style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.78315598;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.30000019;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
          id="rect5820"
