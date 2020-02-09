@@ -35,7 +35,7 @@ Rectangle {
     width: 1024
     height: 768
     
-    color: "#555577"
+    color: "#000000"
 	
 // 	Use this to control all font sizes (also affects icons and overall size of the greeter)
 	property double scalingFactor: 1

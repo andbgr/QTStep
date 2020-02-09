@@ -182,12 +182,12 @@ LXQtGroupPopup {
 	qproperty-titleColor: #959595;
 	qproperty-cpuSystemColor: #20b2aa;
 	qproperty-cpuUserColor: #20b2aa;
-	qproperty-cpuNiceColor: #157771;
+	qproperty-cpuNiceColor: #105955;
 	qproperty-cpuOtherColor: #c22225;
 	qproperty-frequencyColor: #20b2aa;
 	qproperty-memAppsColor: #20b2aa;
-	qproperty-memBuffersColor: #157771;
-	qproperty-memCachedColor: #157771;
+	qproperty-memBuffersColor: #105955;
+	qproperty-memCachedColor: #105955;
 	qproperty-swapUsedColor: #c22225;
 	qproperty-netReceivedColor: #20b2aa;
 	qproperty-netTransmittedColor: #c22225;

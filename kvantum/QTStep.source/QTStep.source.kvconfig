@@ -12,6 +12,7 @@ no_active_tab_separator=true
 active_tab_overlap=13
 toolbar_item_spacing=2
 center_toolbar_handle=true
+group_toolbar_buttons=true
 progressbar_thickness=1font
 composite=false
 menu_separator_height=2
