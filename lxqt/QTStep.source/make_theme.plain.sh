@@ -10,7 +10,7 @@ rm -rv   ../$name
 cp -av . ../$name
 cd       ../$name
 
-for i in *.plain.*; do
+for i in *.plain.svg; do
 	mv -v $i $(echo $i | sed 's/\.plain\././')
 done
 rm -v *.gradient.svg
@@ -24,6 +24,10 @@ declare -A colors_theme
 while read key val; do
 	colors_theme[$key]=$val
 done < "colors.$colorscheme"
+
+for i in lxqt-panel.qss mainmenu.*; do
+	sed -i "s/${colors_source[text-active]}/${colors_source[text-bg]}/" $i
+done
 
 for file in *.svg *.qss; do
 	for i in ${!colors_source[@]}; do
