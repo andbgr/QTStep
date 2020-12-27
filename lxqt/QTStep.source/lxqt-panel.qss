@@ -112,7 +112,6 @@ LXQtGroupPopup {
 	margin-left: 3px;
 	margin-right: 4px;
 	color: #e0ffe0;
-	font: bold;
 }
 
 #Clock #TimeLabel,
