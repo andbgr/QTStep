@@ -11,6 +11,8 @@ This is a theme suite for LXQt or KDE inspired by the WindowMaker/GNUStep/NextSt
 3) Run:
        ./make_theme.sh colors.[NAME]
 
+NOTE: the script requires the 'bc' calculator to be installed
+
 ## Screenshots:
 These mostly show lxqt-panel as it allows for more customization compared to plasma
 ![OpenStep](screenshots/desktop_openstep.png?raw=true "OpenStep")
