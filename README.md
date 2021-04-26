@@ -1,5 +1,5 @@
 ## About
-This is a theme suite for LXQt or KDE. It consists of KWin/Aurorae and xfwm4 window decorations, LXQt and Plasma desktop themes, Qt/Kvantum widget styles, and sddm login themes.
+This is a theme suite for LXQt or KDE inspired by the WindowMaker/GNUStep/NextStep look. It consists of KWin/Aurorae and xfwm4 window decorations, LXQt and Plasma desktop themes, Qt/Kvantum widget styles, and sddm login themes.
 
 ## How to create a new variation of this theme:
 
